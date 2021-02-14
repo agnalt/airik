@@ -1,0 +1,9 @@
+# Site settings
+title: Eirik writes about AI
+author:
+  name: Eirik
+  email: eirik@ostmo.no
+description: "Documenting my learning thoughout my PhD."
+
+# Build settings
+remote_theme: jekyll/minima
