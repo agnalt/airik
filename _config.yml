@@ -3,6 +3,3 @@ title: Eirik writes about AI
 author:
   name: Eirik
 description: "Documenting my learning thoughout my PhD."
-
-# Build settings
-remote_theme: jekyll/minima
