@@ -3,3 +3,5 @@ title: Eirik writes about AI
 author:
   name: Eirik
 description: "Documenting my learning thoughout my PhD."
+
+theme: jekyll-theme-cayman
